@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.24)  29 NOV 2024 14:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.24)  29 NOV 2024 23:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -487,44 +487,79 @@ Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen283
 \c@nlinenum=\count316
 \TeXr@lab=\toks37
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count317
+\ST@wd=\dimen284
+\ST@rightskip=\skip62
+\ST@leftskip=\skip63
+\ST@parfillskip=\skip64
+\ST@pageleft=\dimen285
+\ST@headht=\dimen286
+\ST@tailht=\dimen287
+\ST@pagesofar=\dimen288
+\ST@pboxht=\dimen289
+\ST@lineht=\dimen290
+\ST@prevht=\dimen291
+\ST@toadd=\dimen292
+\ST@dimen=\dimen293
+\ST@pbox=\box68
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip65
+\LTright=\skip66
+\LTpre=\skip67
+\LTpost=\skip68
+\LTchunksize=\count318
+\LTcapwidth=\dimen294
+\LT@head=\box69
+\LT@firsthead=\box70
+\LT@foot=\box71
+\LT@lastfoot=\box72
+\LT@gbox=\box73
+\LT@cols=\count319
+\LT@rows=\count320
+\c@LT@tables=\count321
+\c@LT@chunks=\count322
+\LT@p@ftn=\toks38
 )
-\totalwidth=\skip62
-\firstcolwidth=\skip63
-\othercolwidth=\skip64
+\totalwidth=\skip69
+\firstcolwidth=\skip70
+\othercolwidth=\skip71
  (./ga-hc.aux)
 \openout1 = `ga-hc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
  (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count317
-\scratchdimen=\dimen284
-\scratchbox=\box68
-\nofMPsegments=\count318
-\nofMParguments=\count319
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count320
-\MPscratchDim=\dimen285
-\MPnumerator=\count321
-\makeMPintoPDFobject=\count322
-\everyMPtoPDFconversion=\toks39
+\scratchcounter=\count323
+\scratchdimen=\dimen295
+\scratchbox=\box74
+\nofMPsegments=\count324
+\nofMParguments=\count325
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count326
+\MPscratchDim=\dimen296
+\MPnumerator=\count327
+\makeMPintoPDFobject=\count328
+\everyMPtoPDFconversion=\toks40
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -540,14 +575,14 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
-* v-part:(T,H,B)=(108.405pt, 578.15999pt, 108.405pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=469.75502pt
-* \textheight=578.15999pt
+* \textheight=650.43001pt
 * \oddsidemargin=0.0pt
 * \evensidemargin=0.0pt
-* \topmargin=-0.86499pt
+* \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -565,43 +600,69 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 42.
+Package hyperref Info: Link coloring OFF on input line 43.
 (./ga-hc.out) (./ga-hc.out)
 \@outlinefile=\write4
 \openout4 = `ga-hc.out'.
 
- [1
-
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (38.9036pt too wide) in paragraph at lines 68--105
- [] 
- []
-
-[2] (./ga-hc.toc)
+ (./ga-hc.toc)
 \tf@toc=\write5
 \openout5 = `ga-hc.toc'.
 
- [3] (./ga-hc.aux)
+ [1
+
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Overfull \hbox (38.9036pt too wide) in alignment at lines 83--90
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (38.9036pt too wide) in alignment at lines 90--98
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (38.9036pt too wide) in alignment at lines 98--129
+ [] [] [] [] [] 
+ []
+
+[2]
+
+pdfTeX warning: pdflatex (file ./figure/experimento1_grafico.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<figure/experimento1_grafico.pdf, id=84, 1069.9975pt x 673.51625pt>
+File: figure/experimento1_grafico.pdf Graphic file (type pdf)
+<use figure/experimento1_grafico.pdf>
+Package pdftex.def Info: figure/experimento1_grafico.pdf  used on input line 133.
+(pdftex.def)             Requested size: 469.75502pt x 295.69034pt.
+[3 <./figure/experimento1_grafico.pdf>] [4]
+
+pdfTeX warning: pdflatex (file ./figure/experimento2_grafico.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<figure/experimento2_grafico.pdf, id=98, 1177.39874pt x 805.0075pt>
+File: figure/experimento2_grafico.pdf Graphic file (type pdf)
+<use figure/experimento2_grafico.pdf>
+Package pdftex.def Info: figure/experimento2_grafico.pdf  used on input line 197.
+(pdftex.def)             Requested size: 469.75502pt x 321.17432pt.
+[5] [6 <./figure/experimento2_grafico.pdf>] (./ga-hc.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `ga-hc.out' has not changed.
-(rerunfilecheck)             Checksum: 32476D21DAC12AE6386F59C94C4053D9;1284.
+(rerunfilecheck)             Checksum: C5BB9F83399C61F26B576C4545BE3947;1671.
  ) 
 Here is how much of TeX's memory you used:
- 22044 strings out of 474116
- 403874 string characters out of 5743681
- 1947187 words of memory out of 5000000
- 44044 multiletter control sequences out of 15000+600000
- 564362 words of font info for 58 fonts, out of 8000000 for 9000
+ 22284 strings out of 474116
+ 407953 string characters out of 5743681
+ 1954187 words of memory out of 5000000
+ 44264 multiletter control sequences out of 15000+600000
+ 565046 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,15n,93p,469b,442s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on ga-hc.pdf (3 pages, 49173 bytes).
+ 84i,12n,93p,915b,540s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on ga-hc.pdf (6 pages, 191548 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
- 85 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 143 PDF objects out of 1000 (max. 8388607)
+ 117 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
+ 119 words of extra memory for PDF output out of 10000 (max. 10000000)
 
